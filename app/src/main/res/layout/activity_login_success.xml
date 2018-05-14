@@ -40,7 +40,7 @@
         android:textSize="25sp"
         android:textColor="#ffffff"
         android:fontFamily="cursive"
-        android:text="My whole childhood went adoring avengers. When I grew up, I realized that, Thanos made more sense."
+        android:text="Life is all about coding."
 
         android:inputType="textMultiLine"
         app:layout_constraintBottom_toBottomOf="parent"
